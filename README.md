@@ -10,4 +10,4 @@ In this notebook, dimension reduction methods are applied to IMM data in Mexico,
 
 4. T-SNE
 
-5.SOM
+5. SOM
