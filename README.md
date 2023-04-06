@@ -11,3 +11,5 @@ In this notebook, dimension reduction methods are applied to data from the IMM i
 4. T-SNE
 
 5. SOM
+
+As a recomendation, its better that download or copy the code, for apretiate the interactive graphics, because here in github you can't see them 
